@@ -35,7 +35,6 @@ android_app {
         "androidx.lifecycle_lifecycle-runtime-compose",
         "androidx.core_core",
         "androidx.recyclerview_recyclerview",
-        "org.lineageos.settings.resources"
     ],
 
     required: [
